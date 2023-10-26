@@ -1,0 +1,6 @@
+The Toolkits team is organized with two roles:
+
+core-maintainer: active contributors who watch over the long term maintainability of each toolkit, and keep track of reported issues
+sdk-moderator: coordinates efforts across toolkits, and keep track of toolkit roadmaps.
+
+The meli-toolkits project conglomerates cross-language feature request, new feature RFCs, projects, planning, contribution guidelines, etc.
